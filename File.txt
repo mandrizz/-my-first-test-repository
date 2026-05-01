@@ -2,3 +2,4 @@ testirovka
 test
 13.04.26 второй урок смотрю
 add line
+учусь делать commit из PyCharm (курс QA.GURU, урок 3)
